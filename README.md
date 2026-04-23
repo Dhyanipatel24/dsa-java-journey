@@ -10,5 +10,10 @@ DSA Prep Journey
 * Solved basic programs (sum of two numbers, area of circle)
 * Created GitHub repository and pushed first code
 
+  Day 2
+*  Learned operators in Java (arithmetic, relational, logical,assigment,ternary)
+*  Practiced conditional statements (if-else, else if, switch)
+
+
 
 
