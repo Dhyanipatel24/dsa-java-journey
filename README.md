@@ -17,6 +17,13 @@ Day 3
 * Learned loops in Java (for loop, while loop, do-while loop)
 * Solved problems: prime number, reverse number, sum of first n natural numbers, sum of even and odd numbers
 
+Day 4
+
+Learned functions in Java (parameters, call stack, call by value, function overloading)
+Understood memory and function execution flow
+Solved problems: sum of two numbers, product of two numbers, factorial, binomial coefficient
+
+
 
 
 
