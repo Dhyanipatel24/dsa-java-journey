@@ -18,10 +18,14 @@ Day 3
 * Solved problems: prime number, reverse number, sum of first n natural numbers, sum of even and odd numbers
 
 Day 4
+* Learned functions in Java (parameters, call stack, call by value, function overloading)
+* Understood memory and function execution flow
+* Solved problems: sum of two numbers, product of two numbers, factorial, binomial coefficient.
 
-Learned functions in Java (parameters, call stack, call by value, function overloading)
-Understood memory and function execution flow
-Solved problems: sum of two numbers, product of two numbers, factorial, binomial coefficient
+Day 5
+* Learned method scope and block scope.
+* Learned concept of Binary and Decimal numbers.
+* Solved problems: Binary to decimal , decimal to binar, prime number
 
 
 
