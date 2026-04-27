@@ -28,6 +28,7 @@ public static void butterfly(int n){
             System.out.println();
         }
 }
-
-
-    }
+}
+public static void main(String args[]){
+        butterfly(5)
+}
