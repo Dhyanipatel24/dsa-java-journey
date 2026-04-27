@@ -11,3 +11,6 @@ public static void floyds_triangle(int n){
         }
     }
 }
+public static void main(String args[]){
+        floyds_triangle(5)
+}
