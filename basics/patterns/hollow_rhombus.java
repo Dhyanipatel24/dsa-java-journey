@@ -19,3 +19,6 @@ public static void hollow_rhombus(int n){
             }
         }
 }
+public static void main(String args[]){
+        hollow_rhombus(5)
+}
